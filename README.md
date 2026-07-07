@@ -1,2 +1,2 @@
 # data
-lightcurves (txt, csv)
+lightcurves (.txt, .csv)
