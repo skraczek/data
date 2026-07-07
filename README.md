@@ -1,0 +1,2 @@
+# data
+lightcurves (txt, csv)
